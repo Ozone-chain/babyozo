@@ -1,6 +1,6 @@
 # BabyOZO Meme Coin
 
-![BabyOZO Logo](/images/logo.png)
+![BabyOZO Logo](/logo.png)
 
 Welcome to the official repository of BabyOZO, the mischievous meme coin that's here to bring laughter, joy, and a whole lot of fun to the world of cryptocurrency! We're not just about numbers and profits – we're about creating a community that finds humor and excitement in the world of finance. Join us in paving the way for a new era of financial possibilities, all while having a blast.
 
