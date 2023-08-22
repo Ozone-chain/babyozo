@@ -49,7 +49,7 @@ Join us in spreading laughter and fun in the world of cryptocurrency. Connect wi
 
 - **Telegram:** [https://t.me/ozonechainlabs](https://t.me/ozonechainlabs)
 - **Twitter:** [https://twitter.com/Ozone_chain](https://twitter.com/Ozone_chain)
-
+- **Website:** [https://babyozo.ozonechain.io/](https://babyozo.ozonechain.io/)
 
 ## Contract Address
 
@@ -66,4 +66,5 @@ For security and transparency, we have conducted an audit of the BabyOZO contrac
 BabyOZO is a meme coin created for entertainment purposes. Investing in cryptocurrencies involves risks, and the value of BabyOZO coins can be highly volatile. We encourage everyone to do their research and make informed decisions. The BabyOZO team is not responsible for any financial losses incurred.
 
 Let's laugh, have fun, and embrace the world of finance like never before with BabyOZO! 🚀👶🎉
-Website: https://babyozo.ozonechain.io/
+
+
