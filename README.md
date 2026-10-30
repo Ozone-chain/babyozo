@@ -53,9 +53,9 @@ Join us in spreading laughter and fun in the world of cryptocurrency. Connect wi
 
 ## Contract Address
 
-The contract address of BabyOZO is: 0xB77C34954847Ea37d00678b16F33C0012B701d7F
+The contract address of BabyOZO is: 0xDba327A01B7f2b03a695EC7659da899717bd9AF3
 
-Explore the contract on OzoneScan: [https://ozonescan.io/address/0xB77C34954847Ea37d00678b16F33C0012B701d7F](https://ozonescan.io/address/0xB77C34954847Ea37d00678b16F33C0012B701d7F)
+Explore the contract on OzoneScan: [https://ozonescan.io/address/0xDba327A01B7f2b03a695EC7659da899717bd9AF3](https://ozonescan.io/address/0xDba327A01B7f2b03a695EC7659da899717bd9AF3)
 
 ## Audit Report
 
