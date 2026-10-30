@@ -29,7 +29,7 @@ At BabyOZO, we believe that investing doesn't have to be all serious business. O
 
 BabyOZO operates on a simple but effective mechanism. With every transaction, a 10% tax is applied:
 
-- 5% is distributed to holders, rewarding those who believe in and support the BabyOZO community.
+- 1% is distributed to holders, rewarding those who believe in and support the BabyOZO community.
 - 5% is added to the Liquidity Pool, ensuring a stable and robust ecosystem for our coin.
 
 ## Get Involved
